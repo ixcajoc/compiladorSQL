@@ -1,3 +1,4 @@
+//Compilador con librerias que facilitan la declaracion de gramaticas, lex...
 from tkinter import *
 import tkinter as tk
 from tkinter import ttk
